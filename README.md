@@ -1,5 +1,4 @@
 # TEAL
-https://hub.gke2.mybinder.org/user/johnsangp-teals-il7v6y71/lab
 This is my text under level 1. This is for **Inroduction to Software Technologies** Class at *Towers High School*! Towers High School [website](https://www.towershs.dekalb.k12.ga.us/). 
 
 
